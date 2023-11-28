@@ -1,0 +1,6 @@
+app:
+  google:
+    custom-search:
+      apiKey: xxxxx
+      searchEngineId: xxxx
+      host: https://www.googleapis.com/customsearch/v1
